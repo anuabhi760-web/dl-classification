@@ -1,0 +1,4 @@
+-r requirements.txt
+tensorflow>=2.16
+torchvision>=0.17   # only used to download CIFAR-10 into numpy arrays
+torch>=2.2
